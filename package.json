@@ -1,0 +1,26 @@
+{
+  "name": "breaking-bad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fallinov/breaking-bad.git"
+  },
+  "author": "Steve Fallet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fallinov/breaking-bad/issues"
+  },
+  "homepage": "https://github.com/fallinov/breaking-bad#readme",
+  "devDependencies": {
+    "eslint": "^8.22.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.2.5",
+    "eslint-plugin-promise": "^6.0.0"
+  }
+}
